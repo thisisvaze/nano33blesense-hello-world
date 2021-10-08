@@ -1,6 +1,7 @@
-# ble-sense-hello-world
 
-## Instructions
+Make sure you've installed "Arduino nRF528x Boards (Mbed OS)” and selected the Board and the Port correctly.
+
+## Instructions to use
 
 ### 1. Install these libraries to support all the sensors:
 #### Go to Sketch > Include Library > Manage Libraries

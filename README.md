@@ -9,5 +9,5 @@
 4. Search APDS9960 for and install Arduino_ APDS9960 library
 
 
-### Run hello-world or copy the code and upload on the board
+### Run hello-world.ino or copy the code and upload on the board
 

@@ -13,7 +13,7 @@ Make sure you've installed "Arduino nRF528x Boards (Mbed OS)” and selected the
 
 ### 2. Run hello-world.ino or copy the code and upload on the board
 
-See all the sensor values in the monitor.
+You should see all the sensor values in the monitor.
 
 <img width="454" alt="Screenshot 2021-10-08 at 11 02 59 PM" src="https://user-images.githubusercontent.com/11044960/136598933-ab9dfd08-c9ff-43a3-84a5-726f93a19b10.png">
 
